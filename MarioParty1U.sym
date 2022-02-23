@@ -109,6 +109,7 @@
 8004D9D8,code,ShowTextWindow
 8004DAD0,code,HideTextWindow
 8004DE64,code,WaitForTextConfirmation
+8004FEBC,code,GetPlayerPlacement
 80052A80,code,GetCurrentPlayerIndex
 80052A8C,code,GetPlayerStruct,A0=player_index pass -1 to get current player's struct
 80052ACC,code,PlayerIsCurrent,A0=player_index tests if A0 is the current player
